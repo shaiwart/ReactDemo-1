@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.CardsCss{
+  background: "#AA5FE0"; 
+  padding: 20; 
+  width: 500; 
+  border-radius: 25px;
+}
